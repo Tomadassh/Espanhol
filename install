@@ -45,7 +45,7 @@ else
 apt-get update
 apt-get install figlet -y
 apt-get install -y git
-git clone https://github.com/Tomadassh/menu2.git
+git clone https://github.com/Tomadassh/Espanhol.git
 clear
 cd Espanhol
 rm -rf README.md
