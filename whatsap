@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo ""
+echo -e "\033[1;32m BADVPN \033[0m"
+echo ""
+wget https://raw.githubusercontent.com/RicKbrL/VpsConf/master/badvpn.sh && bash badvpn.sh
